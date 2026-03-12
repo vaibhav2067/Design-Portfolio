@@ -1,0 +1,16 @@
+# Project Dependencies (Node.js)
+# Install using: npm install
+
+react
+react-dom
+react-router-dom
+lucide-react
+motion
+tailwindcss
+vite
+@vitejs/plugin-react
+@tailwindcss/vite
+typescript
+tsx
+express
+dotenv
